@@ -17,9 +17,9 @@ Skills: OOP, Data structure, Algorithm, RDMS, AI, ML etc
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-
+![Profile views](https://gpvc.arturio.dev/milonsheikhcse)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milonsheikhcse&label=Profile%20views&color=0e75b6&style=flat" alt="milonsheikhcse" /> </p>
-![Profile views](https://gpvc.arturio.dev/milonsheikhcse)  
+  
 
 - 🔭 I’m currently working on [own_company](https://milonsheikhcse.github.io/cv_project/index.html)
 
