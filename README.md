@@ -76,9 +76,6 @@ Skills: OOP, Data structure, Algorithm, RDBMS, AI, ML etc
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/milonsheikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/milonsheikh" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milonsheikhcse&show_icons=true&locale=en&layout=compact" alt="milonsheikhcse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milonsheikhcse&" alt="milonsheikhcse" /></p>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milonsheikhcse&label=Profile%20views&color=0e75b6&style=flat" alt="milonsheikhcse" /> </p>
 
