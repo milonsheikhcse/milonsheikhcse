@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/milonsheikhcse)
 
 <p align="center">
-  <img width="100"
+  <img width="100%"
     src="milon.png"
   >  
   <h3 align="center">Hi there, I`m Md. Milon Sheikh</h3>  <br>
