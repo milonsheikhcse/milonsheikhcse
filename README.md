@@ -12,7 +12,7 @@ I count myself as a hardworking person. To pursue a challenging career in a comp
 where enthusiasm, honesty, hard work and passion will support me to grow myself as well as
 utilize my knowledge and expertise for professional development in the relevant field.
 
-Skills: ``` OOP, Data structure, Algorithm, RDBMS, AI, ML etc  ```
+Skills: ``` OOP(C++, Python(basic)), Problem-Solving, Data structure, Discrete Math., Algorithm, RDBMS, AI, ML  etc.  ```
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python, React, Django..... 
