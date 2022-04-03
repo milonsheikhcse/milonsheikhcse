@@ -19,6 +19,7 @@ Skills: OOP, Data structure, Algorithm, RDMS, AI, ML etc
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milonsheikhcse&label=Profile%20views&color=0e75b6&style=flat" alt="milonsheikhcse" /> </p>
+![Profile views](https://gpvc.arturio.dev/milonsheikhcse)  
 
 - 🔭 I’m currently working on [own_company](https://milonsheikhcse.github.io/cv_project/index.html)
 
@@ -66,7 +67,7 @@ Skills: OOP, Data structure, Algorithm, RDMS, AI, ML etc
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=milonsheikhcse)  
 
-![Profile views](https://gpvc.arturio.dev/milonsheikhcse)  
+
 
 
 
