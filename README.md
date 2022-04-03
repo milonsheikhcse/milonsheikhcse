@@ -26,9 +26,8 @@ Skills: OOP, Data structure, Algorithm, RDBMS, AI, ML etc
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milonsheikhcse&label=Profile%20views&color=0e75b6&style=flat" alt="milonsheikhcse" /> </p>
   
 
-- 🔭 I’m currently working on [own_company](https://milonsheikhcse.github.io/cv_project/index.html)
+- 🔭 My details is [here](https://milonsheikhcse.github.io/cv_project/index.html)
 
-- 🌱 I’m currently learning **React, Django.....**
 
 - 👨‍💻 All of my projects are available at [https://github.com/milonsheikhcse?tab=repositories](https://github.com/milonsheikhcse?tab=repositories)
 
