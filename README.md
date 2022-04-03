@@ -16,15 +16,7 @@ Skills: OOP, Data structure, Algorithm, RDBMS, AI, ML etc
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python, React, Django..... 
-
-
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-
-
-  
-
+- 
 - 🔭 My details is [here](https://milonsheikhcse.github.io/cv_project/index.html)
 
 
@@ -33,6 +25,8 @@ Skills: OOP, Data structure, Algorithm, RDBMS, AI, ML etc
 - 📫 How to reach me **milonsheikhcse@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/milonsheikhcse/CV-of-Milon-Sheikh-SE/blob/main/CV_of_Milon_Sheikh_SE.pdf](https://github.com/milonsheikhcse/CV-of-Milon-Sheikh-SE/blob/main/CV_of_Milon_Sheikh_SE.pdf)
+- I am <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
 
 
 
