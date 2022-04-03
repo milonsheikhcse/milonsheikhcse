@@ -1,8 +1,12 @@
-### Hi there, I`m Md. Milon Sheikh
-#### Web - Developer
-<h3 align="center">A passionate Web-Developer from Bangladesh</h3>  <br>
 
-![milon](https://user-images.githubusercontent.com/43423962/161446524-5b4e87b6-7303-4619-bf52-73e9d01200c4.png)
+
+<p align="center">
+  <img 
+    src="milon.png"
+  >  
+  <h3 align="center">Hi there, I`m Md. Milon Sheikh</h3>  <br>
+<h3 align="center">A passionate Web-Developer from Bangladesh</h3>  <br>
+</p>
 
 I count myself as a hardworking person. To pursue a challenging career in a competitive world
 where enthusiasm, honesty, hard work and passion will support me to grow myself as well as
