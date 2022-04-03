@@ -1,5 +1,37 @@
-<h1 align="center">Hi 👋, I'm Md. Milon Sheikh</h1>
+### Hi there, I`m Md. Milon Sheikh
+#### Web - Developer
 <h3 align="center">A passionate Web-Developer from Bangladesh</h3>
+![Web - Developer](https://github.com/milonsheikhcse/milonsheikhcse/blob/main/milon.png)
+
+I count myself as a hardworking person. To pursue a challenging career in a competitive world
+where enthusiasm, honesty, hard work and passion will support me to grow myself as well as
+utilize my knowledge and expertise for professional development in the relevant field.
+
+Skills: OOP, Data structure, Algorithm, RDMS, AI, ML etc 
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python, React, Django..... 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/milonsheikhcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/milonsheikhcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://milonsheikhcse.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/milonsheikhcse//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/milonsheikhcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohammad_milon_sheikh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/milon_sheikh_cs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/milonsheikhcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/milonsheikhcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://milonsheikhcse.github.io/cv_project/index.html)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=milonsheikhcse)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milonsheikhcse)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=milonsheikhcse&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=milonsheikhcse)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=milonsheikhcse)  
+
+![Profile views](https://gpvc.arturio.dev/milonsheikhcse)  
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milonsheikhcse&label=Profile%20views&color=0e75b6&style=flat" alt="milonsheikhcse" /> </p>
 
