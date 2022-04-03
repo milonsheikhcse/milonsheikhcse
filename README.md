@@ -1,14 +1,14 @@
 ### Hi there, I`m Md. Milon Sheikh
 #### Web - Developer
-<h3 align="center">A passionate Web-Developer from Bangladesh</h3>  
+<h3 align="center">A passionate Web-Developer from Bangladesh</h3>  <br>
 
-![I am Md. Milon Sheikh](https://github.com/milonsheikhcse/milonsheikhcse/blob/main/milon.png)
+![I am Md. Milon Sheikh] (https://github.com/milonsheikhcse/milonsheikhcse/blob/main/milon.png)
 
 I count myself as a hardworking person. To pursue a challenging career in a competitive world
 where enthusiasm, honesty, hard work and passion will support me to grow myself as well as
 utilize my knowledge and expertise for professional development in the relevant field.
 
-Skills: OOP, Data structure, Algorithm, RDMS, AI, ML etc 
+Skills: OOP, Data structure, Algorithm, RDBMS, AI, ML etc 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python, React, Django..... 
