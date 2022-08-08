@@ -4,7 +4,7 @@
   <img width="100%"
     src="milonsheikh.png"
   >  
-<h3 align="center">I`m a passionate Web-Developer from Bangladesh</h3>  <br>
+<h3 align="center">I`m a passionate SQA Engineering & Web-Developer from Bangladesh</h3>  <br>
 </p>
 
 I count myself as a hardworking person. To pursue a challenging career in a competitive world
